@@ -17,6 +17,8 @@ body
 
 #cabecera
 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
     background: #33A;
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     color: white;
